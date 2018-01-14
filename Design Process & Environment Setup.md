@@ -11,3 +11,4 @@ Development Environment:
     in conjunction with cra tutorial section on eslint vs code plugin 4[https://goo.gl/qH9SHh]
   installed sass-lint from 5[https://goo.gl/dkxrBX]
     converted airbnb's scss-lint config to sass lint
+  some potentially necessary overrides are here 6[https://goo.gl/EYLjHK]
